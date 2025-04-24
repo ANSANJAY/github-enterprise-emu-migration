@@ -1,7 +1,7 @@
 # GitHub Enterprise Migration with EMU Enablement
 
 ## Overview
-This document outlines the enterprise-level strategy and technical execution plan for migrating repositories from standard GitHub accounts to GitHub Enterprise Cloud, followed by the enablement and adoption of GitHub Enterprise Managed Users (EMU). The goal is to centralize identity management, enforce security policies, and ensure compliance across the organization's software development lifecycle.
+This document outlines the enterprise-level strategy and technical execution plan for migrating repositories from standard GitHub accounts to GitHub Enterprise Cloud, followed by enabling and adopting GitHub Enterprise Managed Users (EMU). The goal is to centralize identity management, enforce security policies, and ensure compliance across the organization's software development lifecycle.
 
 ## Phase 1: GitHub to GitHub Enterprise Cloud Migration
 
