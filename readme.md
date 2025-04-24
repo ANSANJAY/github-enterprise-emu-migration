@@ -53,7 +53,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Configure SAML in both GitHub and IdP dashboards
    - Enforce SSO for all users
 
-3. **Enable SCIM Provisioning**
+3. [**Enable SCIM Provisioning**](./docs/tasks/enable_scim_provisioning.md)
    - Configure SCIM in IdP to automate user account provisioning
    - Validate synchronization of user data with GitHub EMU
 
