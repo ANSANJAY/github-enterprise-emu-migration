@@ -20,7 +20,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Create the new GitHub Enterprise organization
    - Define teams, roles, and access levels
 
-3. **Repository Migration**
+3. [**Repository Migration**](./docs/tasks/repository_migration.md)
    - Clone repositories locally
    - Push to new GitHub Enterprise remote
    - Validate data integrity (commits, tags, issues, wikis)
