@@ -25,7 +25,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Push to new GitHub Enterprise remote
    - Validate data integrity (commits, tags, issues, wikis)
 
-4. **Tooling Integration**
+4. [**Tooling Integration**](./doc/tasks/tooling_integration.md)
    - Update CI/CD pipelines, webhooks, and integrations to point to new repositories
 
 5. **Validation**
