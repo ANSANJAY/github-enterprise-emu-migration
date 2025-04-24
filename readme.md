@@ -28,7 +28,7 @@ This document outlines the enterprise-level strategy and technical execution pla
 4. [**Tooling Integration**](./doc/tasks/tooling_integration.md)
    - Update CI/CD pipelines, webhooks, and integrations to point to new repositories
 
-5. [**Validation**](./doc/tasks/validation.md)
+5. [**Validation**](./docs/tasks/validation.md)
    - Perform functional testing to confirm stability post-migration
 
 ## Phase 2: GitHub Enterprise Managed Users (EMU) Enablement
