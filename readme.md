@@ -79,20 +79,40 @@ This document outlines the enterprise-level strategy and technical execution pla
 - Regular audits of user access and repository permissions
 - Documentation of incident response and recovery procedures
 
+##  Milestones
+| Milestone                           
+|----------------------------------|
+| Repo Audit & Org Setup           | 
+| GitHub Migration Execution       |
+| EMU Enablement Request           | 
+| SAML & SCIM Configuration        | 
+| User Mapping & Access Migration  | 
+| Post-Migration Validation        | 
+
 ## Timeline and Milestones
-| Milestone                         | Owner         | Deadline       |
-|----------------------------------|---------------|----------------|
-| Repo Audit & Org Setup           | Team Lead     | Week 1         |
-| GitHub Migration Execution       | DevOps Team   | Week 2         |
-| EMU Enablement Request           | Org Admin     | Week 3         |
-| SAML & SCIM Configuration        | IAM Team      | Week 4         |
-| User Mapping & Access Migration  | All Teams     | Week 5         |
-| Post-Migration Validation        | QA & SRE      | Week 6         |
+
+| Milestone                                              | Done  | Documented |
+|--------------------------------------------------------|-------|------------|
+| [Repo Audit](docs/tasks/repository_audit.md)           | Done  | Done       |
+| [Target Org Setup](docs/tasks/target_org_setup.md)     | Done  | Done       |
+| [GitHub Migration Execution](docs/tasks/repository_migration.md) | Done  | Done       |
+| [Tooling Integration](docs/tasks/tooling_integration.md) | Done  | Done       |
+| [Validation](docs/tasks/validation.md)                 | Done  | Done       |
+| [EMU Enablement Request](docs/tasks/request_emu_enablement.md) | Done  | Done       |
+| [SAML Configuration](docs/tasks/configure_saml_sso.md) | Done  | Done       |
+| [SCIM Provisioning](docs/tasks/enable_scim_provisioning.md) | Done  | Done       |
+| [User Mapping & Access Migration](docs/tasks/user_mapping_and_access.md) | Done  | Done       |
+| [Post-Migration Validation](docs/tasks/post_migration_validation.md) | Done  | Done       |
+
+
+
+
+
 
 ## Contact and Ownership
-- **Project Lead:** Anamika Sanjay, Enterprise GitHub Architect
+- **Project Lead:** Anamika Sanjay
 - **Support Contacts:** IAM Admin, GitHub Org Owner, DevSecOps Team
-- **Documentation Repository:** `https://github.com/your-org/github-emu-migration-architecture`
+- **Documentation Repository:** `https://github.com/ANSANJAY/github-enterprise-emu-migration`
 
 ---
 
