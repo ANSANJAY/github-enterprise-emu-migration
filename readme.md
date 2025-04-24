@@ -48,7 +48,7 @@ This document outlines the enterprise-level strategy and technical execution pla
 1. [**Request EMU Enablement**](./docs/tasks/request_emu_enablement.md)
    - Coordinate with GitHub account team to enable EMU features
 
-2. **Configure SAML SSO**
+2. [**Configure SAML SSO**](./docs/tasks/configure_saml_sso.md)
    - Exchange metadata between GitHub and IdP
    - Configure SAML in both GitHub and IdP dashboards
    - Enforce SSO for all users
