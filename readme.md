@@ -57,7 +57,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Configure SCIM in IdP to automate user account provisioning
    - Validate synchronization of user data with GitHub EMU
 
-4. **User Mapping and Access Transition**
+4. [**User Mapping and Access Transition**](./docs/tasks/user_mapping_and_access.md)
    - Map existing users to EMU identities via email or external ID
    - Migrate repository ownership and access to EMU accounts
 
