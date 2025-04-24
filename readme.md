@@ -16,7 +16,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Identify all repositories to be migrated
    - Document contributors, branches, and dependencies
 
-2. **Target Org Setup**
+2. [**Target Org Setup**](./docs/tasks/target_org_setup.md)
    - Create the new GitHub Enterprise organization
    - Define teams, roles, and access levels
 
