@@ -12,7 +12,7 @@ This document outlines the enterprise-level strategy and technical execution pla
 - Set up permissions and access controls according to enterprise standards
 
 ### Tasks:
-1. **Repository Audit**
+1. [**Repository Audit**](./docs/tasks/repository_audit.md)
    - Identify all repositories to be migrated
    - Document contributors, branches, and dependencies
 
