@@ -45,7 +45,7 @@ This document outlines the enterprise-level strategy and technical execution pla
 - Access to a supported IdP (Azure AD, Okta, etc.)
 
 ### Tasks:
-1. **Request EMU Enablement**
+1. [**Request EMU Enablement**](./docs/tasks/request_emu_enablement.md)
    - Coordinate with GitHub account team to enable EMU features
 
 2. **Configure SAML SSO**
