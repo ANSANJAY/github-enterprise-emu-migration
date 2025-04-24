@@ -61,7 +61,7 @@ This document outlines the enterprise-level strategy and technical execution pla
    - Map existing users to EMU identities via email or external ID
    - Migrate repository ownership and access to EMU accounts
 
-5. **Post-Migration Validation**
+5. [**Post-Migration Validation**](./docs/tasks/post_migration_validation.md)
    - Confirm SSO authentication works across CLI and Web UI
    - Audit team memberships, permissions, and repo access
    - Monitor for access errors or broken integrations
